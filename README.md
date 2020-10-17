@@ -137,3 +137,15 @@ func main() {
 output:
 >Hello, World!
 #
+
+
+- ### Bash (Unix Shell)
+```#!/bin/bash
+STR="Hello, World!"
+echo $STR
+```
+output:
+>Hello, World!
+#
+
+
